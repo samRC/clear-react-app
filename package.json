@@ -19,6 +19,9 @@
     "type": "git",
     "url": "https://github.com/samRC/clear-react-app"
   },
+  "bugs": {
+    "url": "https://github.com/samRC/clear-react-app/issues"
+  },
   "author": "SamRC",
   "license": "MIT"
 }

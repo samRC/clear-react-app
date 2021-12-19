@@ -6,16 +6,19 @@ NB: Only run this script in a newly initialized app project as it **Deletes** an
 
 ## To Run
 
+If already initialized fresh CRA app
+
+```sh
+npx clear-react-app
+```
+
+Else
+
 ```sh
 npx create-react-app my-app
 cd my-app
 npx clear-react-app
 ```
-
-## Features
-
-- Simple auditable script
-- No dependencies
 
 ## Actions
 
